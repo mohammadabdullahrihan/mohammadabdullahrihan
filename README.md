@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Abdullah Rihan
 ===============================================================================================================================================
 
-MERN Developer
+[MERN Developer](https://readme-typing-svg.demolab.com/demo/?weight=500&size=22&duration=6000&color=FFFFFF&random=true&lines=MERN+Stack+Developer)
 --------------
 
 I am a MERN Stack Web Developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I excel at creating responsive and user-friendly interfaces, designing scalable back-end systems, and integrating APIs. I am passionate about solving complex problems and delivering high-quality web solutions in collaborative, agile environments.
