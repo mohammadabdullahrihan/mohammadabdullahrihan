@@ -32,7 +32,7 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
 
 ###
 
-<h3 align="left">🤝 I’m Open to Collaborating On</h3>
+<h2 align="left">🤝 I’m Open to Collaborating On</h2>
 
 ###
 
