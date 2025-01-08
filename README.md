@@ -21,8 +21,6 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
 * 🖥️  See my portfolio at [My Portfolio](http://abdullahrihanportfolio.netlify.app/)
 * ✉️  You can contact me at [glbboys10@gmail,com](mailto:glbboys10@gmail,com)
 * 🧠  I'm learning Backend
-* 🤝  I'm open to collaborating on Open Source Projects: I’m passionate about contributing to meaningful open-source initiatives. Web Development: Building innovative, scalable web applications using modern frameworks like React, Next.js, and Node.js. UI/UX Enhancements: Creating seamless and user-friendly designs to improve user experiences.
-* ⚡  I’m always eager to learn new technologies and explore their real-world applications. Open to freelance opportunities for web and mobile development projects. Feel free to reach out for technical discussions, mentorship, or brainstorming ideas.
 
 ###
 
