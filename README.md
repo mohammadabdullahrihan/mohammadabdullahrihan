@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Abdullah Rihan
 ===============================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=1000&color=FFFFFF&random=true&width=435&lines=MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=1000&color=FFFFFF&random=true&width=435&lines=FRONT+END+DEVELOPER)](https://git.io/typing-svg)
 --------------
 
 ###
