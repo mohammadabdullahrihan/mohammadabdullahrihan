@@ -80,7 +80,7 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadabdullahrihan/mohammadabdullahrihan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohammadabdullahrihan/mohammadabdullahrihan/output/snake.svg" alt="Snake animation" />
 </p>
 ### Socials
 
