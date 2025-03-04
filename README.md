@@ -74,6 +74,11 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
 </div>
 
 
+##n GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammadabdullahrihan&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ### Socials
 
 <div align="left">
