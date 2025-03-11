@@ -47,9 +47,7 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
 <p align="left">I’m always eager to learn new technologies and explore their real-world applications.<br>Open to freelance opportunities for web and mobile development projects.<br>Feel free to reach out for technical discussions, mentorship, or brainstorming ideas.</p>
 
 ###
-
-### Skills
-
+<h2 align="left">⚡ Skills</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -80,13 +78,11 @@ I am a MERN Stack Web Developer with experience in building full-stack web appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
 </div>
-
-###
 </div>
 
+<h2 align="left">Github Status</h2>
 
-##n GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammadabdullahrihan&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
