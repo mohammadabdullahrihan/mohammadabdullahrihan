@@ -1,102 +1,87 @@
 <div align="center">
-  <img height="220" src="https://i.ibb.co.com/qybK3ZB/1732293405557.jpg"  />
+  <img height="220" src="https://i.ibb.co.com/qybK3ZB/1732293405557.jpg" />
 </div>
 
+# Hi there! 👋 I'm Mohammad Abdullah Rihan
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=1000&color=FFFFFF&random=true&width=500&lines=Full-Stack+Web+Engineer)](https://git.io/typing-svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Abdullah Rihan
-===============================================================================================================================================
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=1000&color=FFFFFF&random=true&width=435&lines=FRONT+END+DEVELOPER)](https://git.io/typing-svg)
---------------
+## 🚀 About Me
 
-###
+I'm a **MERN Stack Web Developer** passionate about building **scalable, high-performance** web applications. I specialize in **React.js, Node.js, Express.js, and MongoDB** to create dynamic, user-friendly web solutions. Always eager to learn new technologies and optimize code for efficiency.
 
-<h2 align="left">About me</h2>
+- 🌍 Based in **Dhaka, Bangladesh**
+- 🖥️ Portfolio: [**My Portfolio**](http://abdullahrihanportfolio.netlify.app/)
+- 📩 Contact me: [glbboys10@gmail.com](mailto:glbboys10@gmail.com)
+- 🧠 Currently learning **Backend architecture & advanced system design**
 
-I am a MERN Stack Web Developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I excel at creating responsive and user-friendly interfaces, designing scalable back-end systems, and integrating APIs. I am passionate about solving complex problems and delivering high-quality web solutions in collaborative, agile environments.
+---
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://abdullahrihanportfolio.netlify.app/)
-* ✉️  You can contact me at [glbboys10@gmail,com](mailto:glbboys10@gmail,com)
-* 🧠  I'm learning Backend
+## 🔥 What I’m Working On
 
-###
+- 🌐 **Exploring Next.js** for high-performance applications.
+- 🏔 **Developing a Tourism Website** to enhance travel experiences.
+- 📱 **Improving React Native skills** for cross-platform mobile development.
 
-<h2 align="left">What I’m Working On:</h2>
+---
 
-###
+## 🤝 Open to Collaboration
 
-<p align="left">🌐 Exploring Next.js and building modern web applications.<br>🛠 Developing a Tourism Website to enhance travel experiences.<br>📚 Improving my skills in React Native for mobile app development.</p>
+💡 I love working on:
+- **Open Source Projects**: Contributing to meaningful open-source initiatives.
+- **Web Development**: Building modern, scalable web applications.
+- **UI/UX Enhancements**: Crafting intuitive and responsive designs.
 
-###
+---
 
-<h2 align="left">🤝 I’m Open to Collaborating On</h2>
+## 🛠 Tech Stack & Skills
 
-###
+### **💻 Frontend**
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![Figma](https://skillicons.dev/icons?i=figma)
 
-<p align="left">Open Source Projects: I’m passionate about contributing to meaningful open-source initiatives.<br>Web Development: Building innovative, scalable web applications using modern frameworks like React, Next.js, and Node.js.<br>UI/UX Enhancements: Creating seamless and user-friendly designs to improve user experiences.</p>
+### **⚙️ Backend**
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-###
+### **🔧 Dev Tools**
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Docker](https://skillicons.dev/icons?i=docker)
 
-<h2 align="left">⚡ Anything Else</h2>
+---
 
-###
+## 📊 GitHub Stats
 
-<p align="left">I’m always eager to learn new technologies and explore their real-world applications.<br>Open to freelance opportunities for web and mobile development projects.<br>Feel free to reach out for technical discussions, mentorship, or brainstorming ideas.</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammadabdullahrihan&theme=shadow_blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-###
-<h2 align="left">⚡ Skills</h2>
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
-</div>
+## 🌎 Connect with Me
 
-<h2 align="left">Github Status</h2>
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=mohammadabdullahrihan&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### Socials
-
-<div align="left">
+<p align="left">
   <a href="https://www.facebook.com/Alabdullahrihan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/alabdullahrihan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/alabdullahrihan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
+</p>
