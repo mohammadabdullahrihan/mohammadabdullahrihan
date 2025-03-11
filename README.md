@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **MERN Stack Web Developer** passionate about building **scalable, high-performance** web applications. I specialize in **React.js, Node.js, Express.js, and MongoDB** to create dynamic, user-friendly web solutions. Always eager to learn new technologies and optimize code for efficiency.
+I'm a **Full Stack Web Enginner** passionate about building **scalable, high-performance** web applications. I specialize in **React.js, Node.js, Express.js, and MongoDB** to create dynamic, user-friendly web solutions. Always eager to learn new technologies and optimize code for efficiency.
 
 - 🌍 Based in **Dhaka, Bangladesh**
 - 🖥️ Portfolio: [**My Portfolio**](http://abdullahrihanportfolio.netlify.app/)
