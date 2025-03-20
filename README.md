@@ -62,14 +62,6 @@ I'm a **Full Stack Web Enginner** passionate about building **scalable, high-per
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammadabdullahrihan&theme=shadow_blue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabdullahrihan&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
 
 ## 🌎 Connect with Me
 
