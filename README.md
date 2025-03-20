@@ -13,7 +13,6 @@
 I'm a **Full Stack Web Enginner** passionate about building **scalable, high-performance** web applications. I specialize in **React.js, Node.js, Express.js, and MongoDB** to create dynamic, user-friendly web solutions. Always eager to learn new technologies and optimize code for efficiency.
 
 - 🌍 Based in **Dhaka, Bangladesh**
-- 🖥️ Portfolio: [**My Portfolio**](http://abdullahrihanportfolio.netlify.app/)
 - 📩 Contact me: [glbboys10@gmail.com](mailto:glbboys10@gmail.com)
 - 🧠 Currently learning **Backend architecture & advanced system design**
 
@@ -21,7 +20,7 @@ I'm a **Full Stack Web Enginner** passionate about building **scalable, high-per
 
 ## 🔥 What I’m Working On
 
-- 🌐 **Exploring Next.js** for high-performance applications.
+- 🌐 **Exploring Nest.js** for high-performance applications.
 - 🏔 **Developing a Tourism Website** to enhance travel experiences.
 - 📱 **Improving React Native skills** for cross-platform mobile development.
 
