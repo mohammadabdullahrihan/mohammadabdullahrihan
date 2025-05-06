@@ -59,20 +59,14 @@ With a background in companies like **McKinsey**, **Dell**, and **Vega IT**, Iâ€
 - **Delivery Lifecycle Management**
 
 ### ðŸ’» **Technical Leadership Stack**
-
-Frontend:
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-
-Backend & DB:
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-
-Cloud & DevOps:
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![GitHub Actions](https://skillicons.dev/icons?i=github)
